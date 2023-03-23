@@ -5,20 +5,20 @@
   line-height: 18.4px;
   position: fixed;
   top: 0px;
+  justify-content: center;
 }
 .ContentBox {
   display: flex;
   box-sizing: border-box;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   width: 1200px;
   height: 64px;
   padding-left: 16px;
   padding-right: 16px;
   padding-top: 12px;
   padding-bottom: 12px;
-  margin-left: 245.333px;
-  margin-right: 245.333px;
+  margin: 0 auto;
   position: relative;
 }
 .section-a {
@@ -125,4 +125,5 @@
   border: 0.667px solid rgb(209, 211, 216);
   border-radius: 4px;
   text-align: center;
+  align-items: center;
 }
