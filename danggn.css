@@ -491,6 +491,7 @@ button:hover {
 }
 
 .main-popular-more {
+  font-size: 16px;
   text-align: center;
   color: #212529;
   line-height: 1.5;
