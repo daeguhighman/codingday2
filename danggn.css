@@ -192,6 +192,7 @@
 
 button:hover {
   background-color: #eaecef;
+  cursor: pointer;
 }
 
 .main-n-content2 {
