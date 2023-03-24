@@ -6,6 +6,8 @@
   position: fixed;
   top: 0px;
   justify-content: center;
+  background-color: white;
+  z-index: 999;
 }
 .ContentBox {
   display: flex;
@@ -126,6 +128,7 @@
   border-radius: 4px;
   text-align: center;
   align-items: center;
+}
 html {
   font-size: 10px;
   min-width: 980px;
@@ -179,16 +182,14 @@ li {
   font-size: 1.6rem;
   font-weight: 400px;
   cursor: pointer;
-  
 }
 .foot-keyword-link:hover {
   font-size: 1.6rem;
   font-weight: 400px;
   cursor: pointer;
   color: blue;
-  
 }
-.footer-keyword-link:hover{
+.footer-keyword-link:hover {
   background-color: blue;
 }
 .foot-_1trxeqs0 {
@@ -307,7 +308,6 @@ li {
 .foot-_1trxeqso:hover {
   cursor: pointer;
   color: blue;
-
 }
 .foot-_1trxeqsp {
   margin: 15px 0;
