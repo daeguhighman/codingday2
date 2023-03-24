@@ -50,6 +50,18 @@ li {
 .foot-keyword-link {
   font-size: 1.6rem;
   font-weight: 400px;
+  cursor: pointer;
+  
+}
+.foot-keyword-link:hover {
+  font-size: 1.6rem;
+  font-weight: 400px;
+  cursor: pointer;
+  color: blue;
+  
+}
+.footer-keyword-link:hover{
+  background-color: blue;
 }
 .foot-_1trxeqs0 {
   border-top: 1px solid #eaebee;
@@ -82,6 +94,10 @@ li {
   width: 304.54;
   justify-content: space-between;
 }
+.foot-_1trxeqs8 {
+  cursor: pointer;
+  hover: blue;
+}
 
 .foot-_1trxeqs9 {
   line-height: 1.4;
@@ -96,6 +112,7 @@ li {
   flex-direction: column;
   max-width: 131.47px;
   height: 257.969px;
+  cursor: pointer;
 }
 .foot-_1trxeqsb {
   line-height: 20px;
@@ -159,11 +176,21 @@ li {
   border: none;
   opacity: 50%;
 }
-.foot-_1trxeqso {
+.foot-_1trxeqso:hover {
+  cursor: pointer;
+  color: blue;
+
 }
 .foot-_1trxeqsp {
   margin: 15px 0;
   color: #212124;
+  cursor: pointer;
+}
+.foot-_1trxeqsp:hover {
+  margin: 15px 0;
+  color: #212124;
+  cursor: pointer;
+  color: blue;
 }
 .foot-abc {
   width: 429px;
